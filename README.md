@@ -60,8 +60,7 @@ Retrieval-Augmented Generation (RAG) combines large language models with externa
 
 ```bash
 # Clone and navigate to demo folder
-git clone https://github.com/your-username/augmented-intelligence-rag-demo.git
-cd augmented-intelligence-rag-demo/demo
+git clone https://github.com/Maximum-Group/TUT-AI-Week-2025.git
 
 # Install dependencies
 pip install -r requirements.txt
